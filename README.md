@@ -5,26 +5,23 @@ This is the ILA model database, archiving the ILA models and the verification sc
 
 ## Content
 
-### Tutorials
+### Accelerators
 
--   [AES](tutorials/aes) is a documented tutorial for ILA-based behavioral equivalence checking. 
+-   [AES] is a documented tutorial for ILA-based behavioral equivalence checking. 
 
-### Examples
+### Communication
 
--   [FIFO-BMC](examples/FIFO-BMC) demonstrates the bounded model checking (BMC) capability of ILAng using a FIFO example. 
+-   [LMAC]: LeWiz Communications Ethernet MAC.
+-   [AXI]: OH! Implementation, it also includes the protocol verification
 
 ### Cores
 
 -   [RISC-V](cores/RISC-V)
 -   [PTX](cores/PTX)
 
-### Accelerators
-
-### Uncores
-
--   [LMAC](uncores/lmac): LeWiz Communications Ethernet MAC. 
-
 ### Others
+
+-   [FIFO-BMC](examples/FIFO-BMC) demonstrates the bounded model checking (BMC) capability of ILAng using a FIFO example.
 
 ## Contribute
 
