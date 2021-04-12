@@ -1,0 +1,3 @@
+[submodule "IMDb_Comm/ILA_AXI_Protocol"]
+	path = IMDb_Comm/ILA_AXI_Protocol
+	url = https://github.com/PrincetonUniversity/ILA_AXI_Protocol.git
