@@ -1,3 +1,15 @@
 [submodule "IMDb_Comm/ILA_AXI_Protocol"]
 	path = IMDb_Comm/ILA_AXI_Protocol
 	url = https://github.com/PrincetonUniversity/ILA_AXI_Protocol.git
+[submodule "IMDb_Accls/flexnlp-ila"]
+	path = IMDb_Accls/flexnlp-ila
+	url = https://github.com/PrincetonUniversity/flexnlp-ila.git
+[submodule "IMDb_Accls/hlscnn-ila"]
+	path = IMDb_Accls/hlscnn-ila
+	url = https://github.com/PrincetonUniversity/hlscnn-ila.git
+[submodule "IMDb_Accls/vta-ila"]
+	path = IMDb_Accls/vta-ila
+	url = https://github.com/LeeOHzzZ/vta-ila.git
+[submodule "IMDb_Comm/lmac-ila"]
+	path = IMDb_Comm/lmac-ila
+	url = https://github.com/LeeOHzzZ/lmac-ila.git

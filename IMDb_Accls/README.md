@@ -10,6 +10,9 @@ This is the ILA model database, archiving the ILA models and the verification sc
 ### Accelerators
 
 -   [AES] is a documented tutorial for ILA-based behavioral equivalence checking. 
+-   [FlexASR] is an AXI-programmable hardware accelerator for attention-based seq-to-seq networks. It is open-sourced [here](https://github.com/harvard-acc/FlexASR)
+-   [HLSCNN] is an AXI-interfaced hardware accelerator for 2D convolution neural networks.
+-   [VTA] is a programmable accelerator that exposes a RISC-like programming abstraction to describe compute and memory operations at the tensor level.
 
 ### Communication
 
