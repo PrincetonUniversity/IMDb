@@ -9,12 +9,16 @@ This is the ILA model database, archiving the ILA models and the verification sc
 
 ### Accelerators
 
--   [AES] is a documented tutorial for ILA-based behavioral equivalence checking. 
+-   [AES] is a documented tutorial for ILA-based behavioral equivalence checking.
+-   [FLEXNLP]
+-   [HLS-CNN]
+-   [VTA]
 
 ### Communication
 
 -   [LMAC]: LeWiz Communications Ethernet MAC.
 -   [AXI]: OH! Implementation, it also includes the protocol verification
+-   [Off-chip]: BaseJump Implementation
 
 ### Cores
 
@@ -24,6 +28,7 @@ This is the ILA model database, archiving the ILA models and the verification sc
 ### Others
 
 -   [FIFO-BMC](examples/FIFO-BMC) demonstrates the bounded model checking (BMC) capability of ILAng using a FIFO example.
+-   [L2 Cache]: OpenPiton Implementation, we also verifies cache coherence protocol under this repo.
 
 ## Contribute
 
