@@ -13,3 +13,6 @@
 [submodule "IMDb_Comm/lmac-ila"]
 	path = IMDb_Comm/lmac-ila
 	url = https://github.com/LeeOHzzZ/lmac-ila.git
+[submodule "IMDb_Others/ILA_CCP"]
+	path = IMDb_Comm/ILA_CCP
+	url = https://github.com/HuaixiLu/ILA_CCP.git
