@@ -10,9 +10,12 @@ This is the ILA model database, archiving the ILA models and the verification sc
 ### Accelerators
 
 -   [AES] is a documented tutorial for ILA-based behavioral equivalence checking.
+-   [SHA]
 -   [FLEXNLP](https://github.com/PrincetonUniversity/flexnlp-ila): ILA model of the FlexASR accelerator (all rights reserved - Harvard University).
 -   [HLS-CNN](https://github.com/PrincetonUniversity/hlscnn-ila): This is the ILA model of HLSCNN accelerator (all right reserved - Harvard University)
 -   [VTA](https://github.com/LeeOHzzZ/vta-ila): ILA model of the Versatile Tensor Accelerator (VTA)
+-   [GB]
+-   [RBM]
 
 ### Communication
 
@@ -24,11 +27,14 @@ This is the ILA model database, archiving the ILA models and the verification sc
 
 -   [RISC-V](cores/RISC-V)
 -   [PTX](cores/PTX)
+-   [Nibber Processor]
+-   [8051]
 
 ### Others
 
 -   [FIFO-BMC](examples/FIFO-BMC) demonstrates the bounded model checking (BMC) capability of ILAng using a FIFO example.
 -   [Cache Coherence](https://github.com/HuaixiLu/ILA_CCP): OpenPiton Implementation, we also verifies cache coherence protocol under this repo.
+-   [Memory Controller]
 
 ## Contribute
 
