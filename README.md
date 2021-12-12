@@ -17,8 +17,8 @@ This is the ILA model database, archiving the ILA models and the verification sc
 ### Communication
 
 -   [LMAC]: LeWiz Communications Ethernet MAC.
--   [AXI]: OH! Implementation, it also includes the protocol verification
--   [Off-chip]: BaseJump Implementation
+-   [AXI](https://github.com/PrincetonUniversity/ILA_AXI_Protocol): OH! Implementation, it also includes the protocol verification
+-   [Off-chip](https://github.com/HuaixiLu/ILA_Offchip_Protocol): BaseJump Implementation
 
 ### Cores
 
@@ -28,7 +28,7 @@ This is the ILA model database, archiving the ILA models and the verification sc
 ### Others
 
 -   [FIFO-BMC](examples/FIFO-BMC) demonstrates the bounded model checking (BMC) capability of ILAng using a FIFO example.
--   [L2 Cache]: OpenPiton Implementation, we also verifies cache coherence protocol under this repo.
+-   [Cache Coherence](https://github.com/HuaixiLu/ILA_CCP): OpenPiton Implementation, we also verifies cache coherence protocol under this repo.
 
 ## Contribute
 
