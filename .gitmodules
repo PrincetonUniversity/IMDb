@@ -16,3 +16,6 @@
 [submodule "IMDb_Others/ILA_CCP"]
 	path = IMDb_Others/ILA_CCP
 	url = https://github.com/HuaixiLu/ILA_CCP.git
+[submodule "IMDb_Comm/ILA_Offchip_Protocol"]
+	path = IMDb_Comm/ILA_Offchip_Protocol
+	url = https://github.com/HuaixiLu/ILA_Offchip_Protocol.git
