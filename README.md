@@ -16,7 +16,7 @@ This is the ILA model database, archiving the ILA models and the verification sc
 
 ### Communication
 
--   [LMAC]: LeWiz Communications Ethernet MAC.
+-   [LMAC](https://github.com/LeeOHzzZ/lmac-ila): LeWiz Communications Ethernet MAC.
 -   [AXI](https://github.com/PrincetonUniversity/ILA_AXI_Protocol): OH! Implementation, it also includes the protocol verification
 -   [Off-chip](https://github.com/HuaixiLu/ILA_Offchip_Protocol): BaseJump Implementation
 
