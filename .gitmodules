@@ -19,3 +19,6 @@
 [submodule "IMDb_Comm/ILA_Offchip_Protocol"]
 	path = IMDb_Comm/ILA_Offchip_Protocol
 	url = https://github.com/HuaixiLu/ILA_Offchip_Protocol.git
+[submodule "IMDb_Accls/ILA_AES"]
+	path = IMDb_Accls/ILA_AES
+	url = https://github.com/yuex1994/ILA_AES.git

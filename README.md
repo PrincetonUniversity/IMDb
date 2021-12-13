@@ -9,7 +9,7 @@ This is the ILA model database, archiving the ILA models and the verification sc
 
 ### Accelerators
 
--   [AES] is a documented tutorial for ILA-based behavioral equivalence checking.
+-   [AES](https://github.com/yuex1994/ILA_AES): ILA model of the AES (Advanced Encryption Standard) accelerator.
 -   [SHA]
 -   [FLEXNLP](https://github.com/PrincetonUniversity/flexnlp-ila): ILA model of the FlexASR accelerator (all rights reserved - Harvard University).
 -   [HLS-CNN](https://github.com/PrincetonUniversity/hlscnn-ila): This is the ILA model of HLSCNN accelerator (all right reserved - Harvard University)
