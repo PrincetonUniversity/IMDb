@@ -28,7 +28,7 @@ This is the ILA model database, archiving the ILA models and the verification sc
 -   [RISC-V](cores/RISC-V)
 -   [PTX](cores/PTX)
 -   [Nibber Processor]
--   [8051]
+-   [8051](https://github.com/yuex1994/ILA_8051): ILA model of the Intel 8051 micro-processor
 
 ### Others
 

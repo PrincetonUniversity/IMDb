@@ -25,3 +25,6 @@
 [submodule "IMDb_Accls/ILA_SHA"]
 	path = IMDb_Accls/ILA_SHA
 	url = https://github.com/yuex1994/ILA_SHA.git
+[submodule "IMDb_Cores/ILA_8051"]
+	path = IMDb_Cores/ILA_8051
+	url = https://github.com/yuex1994/ILA_8051.git
