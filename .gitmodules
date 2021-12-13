@@ -28,3 +28,6 @@
 [submodule "IMDb_Cores/ILA_8051"]
 	path = IMDb_Cores/ILA_8051
 	url = https://github.com/yuex1994/ILA_8051.git
+[submodule "IMDb_Cores/ILA_PTX"]
+	path = IMDb_Cores/ILA_PTX
+	url = https://github.com/yuex1994/ILA_PTX.git
