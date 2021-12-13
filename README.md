@@ -25,7 +25,10 @@ This is the ILA model database, archiving the ILA models and the verification sc
 
 ### Cores
 
--   [RISC-V](cores/RISC-V)
+-   [RISC-V]
+-   [Pico]
+-   [Piccolo]
+-   [Rocket]
 -   [PTX](https://github.com/yuex1994/ILA_PTX): ILA model of the Nvidia GPU PTX ISA.
 -   [Nibber Processor]
 -   [8051](https://github.com/yuex1994/ILA_8051): ILA model of the Intel 8051 micro-processor
