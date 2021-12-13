@@ -10,7 +10,7 @@ This is the ILA model database, archiving the ILA models and the verification sc
 ### Accelerators
 
 -   [AES](https://github.com/yuex1994/ILA_AES): ILA model of the AES (Advanced Encryption Standard) accelerator.
--   [SHA]
+-   [SHA](https://github.com/yuex1994/ILA_SHA): ILA model of the SHA (Secure Hash Algorithm) accelerator.
 -   [FLEXNLP](https://github.com/PrincetonUniversity/flexnlp-ila): ILA model of the FlexASR accelerator (all rights reserved - Harvard University).
 -   [HLS-CNN](https://github.com/PrincetonUniversity/hlscnn-ila): This is the ILA model of HLSCNN accelerator (all right reserved - Harvard University)
 -   [VTA](https://github.com/LeeOHzzZ/vta-ila): ILA model of the Versatile Tensor Accelerator (VTA)
