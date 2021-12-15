@@ -31,3 +31,18 @@
 [submodule "IMDb_Cores/ILA_PTX"]
 	path = IMDb_Cores/ILA_PTX
 	url = https://github.com/yuex1994/ILA_PTX.git
+[submodule "IMDb_Accls/ILA_NVDLA"]
+	path = IMDb_Accls/ILA_NVDLA
+	url = https://github.com/yuzeng2333/ILA_NVDLA
+[submodule "IMDb_Accls/ILA_RBM"]
+	path = IMDb_Accls/ILA_RBM
+	url = https://github.com/yuzeng2333/ILA_RBM
+[submodule "IMDb_Accls/ILA_GB"]
+	path = IMDb_Accls/ILA_GB
+	url = https://github.com/yuzeng2333/ILA_GB
+[submodule "IMDb_Cores/ILA_Pico"]
+	path = IMDb_Cores/ILA_Pico
+	url = https://github.com/yuzeng2333/ILA_Pico
+[submodule "IMDb_Cores/ILA_Piccolo"]
+	path = IMDb_Cores/ILA_Piccolo
+	url = https://github.com/yuzeng2333/ILA_Piccolo
