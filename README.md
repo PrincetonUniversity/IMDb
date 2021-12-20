@@ -29,7 +29,7 @@ This is the ILA model database, archiving the ILA models and the verification sc
 -   [RISC-V]
 -   [Pico](https://github.com/yuzeng2333/ILA_Pico)
 -   [Piccolo](https://github.com/yuzeng2333/ILA_Piccolo)
--   [Rocket]
+-   [Rocket](https://github.com/PrincetonUniversity/ILA_Rocket): Rocket Processor
 -   [PTX](https://github.com/yuex1994/ILA_PTX): ILA model of the Nvidia GPU PTX ISA.
 -   [Nibber](https://github.com/HuaixiLu/ILA_Nibbler): ILA verification of a SIMD Processor
 -   [8051](https://github.com/yuex1994/ILA_8051): ILA model of the Intel 8051 micro-processor
