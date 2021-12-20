@@ -14,9 +14,9 @@ This is the ILA model database, archiving the ILA models and the verification sc
 -   [FLEXNLP](https://github.com/PrincetonUniversity/flexnlp-ila): ILA model of the FlexASR accelerator (all rights reserved - Harvard University).
 -   [HLS-CNN](https://github.com/PrincetonUniversity/hlscnn-ila): This is the ILA model of HLSCNN accelerator (all right reserved - Harvard University)
 -   [VTA](https://github.com/LeeOHzzZ/vta-ila): ILA model of the Versatile Tensor Accelerator (VTA)
--   [GB](https://github.com/yuzeng2333/ILA_GB):
--   [RBM](https://github.com/yuzeng2333/ILA_RBM):
--   [NVDLA](https://github.com/yuzeng2333/ILA_NVDLA):
+-   [GB](https://github.com/yuzeng2333/ILA_GB): ILA model of the Gaussian Blurr Accelerator (GB)
+-   [RBM](https://github.com/yuzeng2333/ILA_RBM): ILA model of the Restricted Boltzman Machine Accelerator (RBM)
+-   [NVDLA](https://github.com/yuzeng2333/ILA_NVDLA): ILA model of the NVDLA Accelerator
 
 ### Communication
 
@@ -27,11 +27,11 @@ This is the ILA model database, archiving the ILA models and the verification sc
 ### Cores
 
 -   [RISC-V]
--   [Pico](https://github.com/yuzeng2333/ILA_Pico)
--   [Piccolo](https://github.com/yuzeng2333/ILA_Piccolo)
--   [Rocket](https://github.com/PrincetonUniversity/ILA_Rocket): Rocket Processor
+-   [Pico](https://github.com/yuzeng2333/ILA_Pico): The PicoRISCV processor, simple core without pipeline
+-   [Piccolo](https://github.com/yuzeng2333/ILA_Piccolo): The Piccolo processor with pipepines.
+-   [Rocket]
 -   [PTX](https://github.com/yuex1994/ILA_PTX): ILA model of the Nvidia GPU PTX ISA.
--   [Nibber](https://github.com/HuaixiLu/ILA_Nibbler): ILA verification of a SIMD Processor
+-   [Nibber Processor]
 -   [8051](https://github.com/yuex1994/ILA_8051): ILA model of the Intel 8051 micro-processor
 
 ### Others
