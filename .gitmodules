@@ -49,3 +49,6 @@
 [submodule "IMDb_Cores/ILA_Nibbler"]
 	path = IMDb_Cores/ILA_Nibbler
 	url = https://github.com/HuaixiLu/ILA_Nibbler.git
+[submodule "IMDb_Cores/ILA_Rocket"]
+	path = IMDb_Cores/ILA_Rocket
+	url = https://github.com/PrincetonUniversity/ILA_Rocket
