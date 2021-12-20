@@ -14,9 +14,9 @@ This is the ILA model database, archiving the ILA models and the verification sc
 -   [FLEXNLP](https://github.com/PrincetonUniversity/flexnlp-ila): ILA model of the FlexASR accelerator (all rights reserved - Harvard University).
 -   [HLS-CNN](https://github.com/PrincetonUniversity/hlscnn-ila): This is the ILA model of HLSCNN accelerator (all right reserved - Harvard University)
 -   [VTA](https://github.com/LeeOHzzZ/vta-ila): ILA model of the Versatile Tensor Accelerator (VTA)
--   [GB](https://github.com/yuzeng2333/ILA_GB)
--   [RBM](https://github.com/yuzeng2333/ILA_RBM)
--   [NVDLA]https://github.com/yuzeng2333/ILA_NVDLA
+-   [GB](https://github.com/yuzeng2333/ILA_GB):
+-   [RBM](https://github.com/yuzeng2333/ILA_RBM):
+-   [NVDLA](https://github.com/yuzeng2333/ILA_NVDLA):
 
 ### Communication
 
