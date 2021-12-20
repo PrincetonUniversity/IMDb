@@ -46,3 +46,6 @@
 [submodule "IMDb_Cores/ILA_Piccolo"]
 	path = IMDb_Cores/ILA_Piccolo
 	url = https://github.com/yuzeng2333/ILA_Piccolo
+[submodule "IMDb_Cores/ILA_Nibbler"]
+	path = IMDb_Cores/ILA_Nibbler
+	url = https://github.com/HuaixiLu/ILA_Nibbler.git
