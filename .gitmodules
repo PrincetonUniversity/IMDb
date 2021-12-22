@@ -52,3 +52,6 @@
 [submodule "IMDb_Cores/ILA_Rocket"]
 	path = IMDb_Cores/ILA_Rocket
 	url = https://github.com/PrincetonUniversity/ILA_Rocket
+[submodule "IMDb_Others/ILA_garnet"]
+	path = IMDb_Others/ILA_garnet
+	url = https://github.com/yuzeng2333/ILA_garnet.git
