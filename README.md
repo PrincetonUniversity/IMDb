@@ -38,7 +38,7 @@ This is the ILA model database, archiving the ILA models and the verification sc
 
 -   [FIFO-BMC](examples/FIFO-BMC) demonstrates the bounded model checking (BMC) capability of ILAng using a FIFO example.
 -   [Cache Coherence](https://github.com/HuaixiLu/ILA_CCP): OpenPiton Implementation, we also verifies cache coherence protocol under this repo.
--   [Memory Controller]
+-   [Memory Controller](https://github.com/yuzeng2333/ILA_garnet.git): ILA model of the Garnet Memory Controller
 
 ## Contribute
 
